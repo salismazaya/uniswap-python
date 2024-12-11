@@ -32,6 +32,7 @@ _netid_to_name = {
     1666600000: "harmony_mainnet",
     1666700000: "harmony_testnet",
     11155111: "sepolia",
+    8453: "base"
 }
 
 _factory_contract_addresses_v1 = {
@@ -57,6 +58,7 @@ _factory_contract_addresses_v2 = {
     "harmony_mainnet": "0xc35DADB65012eC5796536bD9864eD8773aBc74C4",
     "harmony_testnet": "0xc35DADB65012eC5796536bD9864eD8773aBc74C4",
     "sepolia": "0x7E0987E5b3a30e3f2828572Bb659A548460a3003",
+    "base": "0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6"
 }
 
 _router_contract_addresses_v2 = {
@@ -68,6 +70,7 @@ _router_contract_addresses_v2 = {
     "xdai": "0x1C232F01118CB8B424793ae03F870aa7D0ac7f77",
     "binance": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
     "binance_testnet": "0xD99D1c33F9fC3444f8101754aBC46c52416550D1",
+    "base": "0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24",
     # SushiSwap on Harmony
     "harmony_mainnet": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
     "harmony_testnet": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
